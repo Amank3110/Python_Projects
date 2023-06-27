@@ -23,12 +23,59 @@ YouTube is a popular platform for sharing and watching videos. This case study f
 
 ## Installation
 
-To run the code in this repository, you need to have Python 3 installed. Additionally, the required Python packages can be installed by running:
+To run the code in this repository, you need to have Python 3 installed. If you don't have Python installed, you can download it from the official Python website: [Python.org](https://www.python.org/)
+
+In addition to Python, you will also need Jupyter Notebook to run the provided notebooks. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
+
+You can install Jupyter Notebook using pip, which is the package installer for Python. Open your command line interface and run the following command:
 
 ```
-pip install pandas textblob emoji matplotlib seaborn os 
+pip install jupyterlab
 ```
 
+Once Jupyter Notebook is installed, you can launch it by running the following command in the command line:
+
+```
+jupyter notebook
+```
+
+This will open Jupyter Notebook in your web browser, and you can navigate to the directory where you have the notebook files from this repository and open them.
+
+### Installing Required Modules
+
+To run the code in the notebooks and scripts, you will need to install several Python modules. You can install these modules using pip by running the following commands:
+
+- Matplotlib:
+  ```
+  pip install matplotlib
+  ```
+
+- Seaborn:
+  ```
+  pip install seaborn
+  ```
+
+- TextBlob:
+  ```
+  pip install textblob
+  ```
+
+- Emoji:
+  ```
+  pip install emoji
+  ```
+
+- WordCloud:
+  ```
+  pip install wordcloud
+  ```
+
+- Plotly:
+  ```
+  pip install plotly
+  ```
+
+These commands will download and install the required modules and their dependencies.
 
 ## Data Collection
 
@@ -69,6 +116,5 @@ An analysis of the YouTube trending videos is conducted to identify the factors 
 ## Conclusion
 
 This YouTube case study provides a scalable and comprehensive analysis of various aspects related to YouTube videos and audience engagement. By leveraging Python and different modules, valuable insights can be gained regarding sentiment, word usage, emojis, data export, category preferences, audience engagement, and trending videos.
-
 
 **Note:** The analysis performed in this case study is for educational and informational purposes only. The results may vary depending on the dataset and specific context of the YouTube videos being analyzed.
