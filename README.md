@@ -72,6 +72,5 @@ An analysis
 
 This YouTube case study provides a scalable and comprehensive analysis of various aspects related to YouTube videos and audience engagement. By leveraging Python and different modules, valuable insights can be gained regarding sentiment, word usage, emojis, data export, category preferences, audience engagement, and trending videos.
 
-Feel free to explore the code and resources in this repository to gain a deeper understanding of YouTube data analysis.
 
 **Note:** The analysis performed in this case study is for educational and informational purposes only. The results may vary depending on the dataset and specific context of the YouTube videos being analyzed.
