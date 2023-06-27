@@ -118,3 +118,7 @@ An analysis of the YouTube trending videos is conducted to identify the factors 
 This YouTube case study provides a scalable and comprehensive analysis of various aspects related to YouTube videos and audience engagement. By leveraging Python and different modules, valuable insights can be gained regarding sentiment, word usage, emojis, data export, category preferences, audience engagement, and trending videos.
 
 **Note:** The analysis performed in this case study is for educational and informational purposes only. The results may vary depending on the dataset and specific context of the YouTube videos being analyzed.
+
+## Contact
+
+For any inquiries or collaborations, feel free to reach out to me at amankumar80451@gmail.com or connect with me on LinkedIn at [LinkedIn Profile](https://www.linkedin.com/in/aman-kumar-3bab59201/).
