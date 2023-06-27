@@ -64,9 +64,7 @@ The engagement level of the audience is evaluated by calculating the likes rate,
 
 ## Trending Videos Analysis
 
-An analysis
-
- of the YouTube trending videos is conducted to identify the factors contributing to their popularity. The trending videos analysis code is scalable and optimized to handle large datasets, facilitating efficient extraction of insights from a vast number of trending videos.
+An analysis of the YouTube trending videos is conducted to identify the factors contributing to their popularity. The trending videos analysis code is scalable and optimized to handle large datasets, facilitating efficient extraction of insights from a vast number of trending videos.
 
 ## Conclusion
 
